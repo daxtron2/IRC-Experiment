@@ -1,0 +1,10 @@
+C:\Users\daxtron2\Documents\GDAPS2\Client\Client\bin\Debug\Client.exe.config
+C:\Users\daxtron2\Documents\GDAPS2\ClientAndServer\Client\bin\Debug\Client.exe.config
+C:\Users\daxtron2\Documents\GDAPS2\ClientAndServer\Client\bin\Debug\Client.exe
+C:\Users\daxtron2\Documents\GDAPS2\ClientAndServer\Client\bin\Debug\Client.pdb
+C:\Users\daxtron2\Documents\GDAPS2\ClientAndServer\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\daxtron2\Documents\GDAPS2\ClientAndServer\Client\obj\Debug\Client.exe
+C:\Users\daxtron2\Documents\GDAPS2\ClientAndServer\Client\obj\Debug\Client.pdb
+C:\Users\daxtron2\Documents\irc-experiment\Client\bin\Debug\Client.exe.config
+C:\Users\daxtron2\Documents\irc-experiment\Client\obj\Debug\Client.exe
+C:\Users\daxtron2\Documents\irc-experiment\Client\obj\Debug\Client.pdb
